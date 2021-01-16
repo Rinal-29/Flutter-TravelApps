@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="myapp.rinal.dicoding_flutter_codelabs">
+    <uses-permission android:name="android.permission.INTERNET"/>
    <application
         android:label="dicoding_flutter_codelabs"
         android:icon="@mipmap/ic_launcher">
